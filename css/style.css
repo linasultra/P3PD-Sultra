@@ -208,13 +208,14 @@ body {
   text-align: justify;
 }
 
-/* Menu Section */
+/* Galeri Section */
 .galeri h2,
 .products h2,
 .contact h2 {
   margin-bottom: 1rem;
 }
-/* .galeri p,
+
+.galeri p,
 .products p,
 .contact p {
   text-align: center;
@@ -222,28 +223,28 @@ body {
   margin: auto;
   font-weight: 100;
   line-height: 1.6;
-} */
+}
 
-/* .menu .row {
+.galeri .row {
   display: flex;
   flex-wrap: wrap;
   margin-top: 5rem;
   justify-content: center;
 }
 
-.menu .row .menu-card {
+.galeri .row .galeri-card {
   text-align: center;
   padding-bottom: 4rem;
 }
 
-.menu .row .menu-card img {
+.galeri .row .galeri-card-img {
   border-radius: 50%;
-  width: 80%;
+  width: 70%;
 }
 
-.menu .row .menu-card .menu-card-title {
+.galeri .row .galeri-card .galeri-card-title {
   margin: 1rem auto 0.5rem;
-} */
+}
 
 /* Media Queries */
 /* Laptop */
