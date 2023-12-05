@@ -152,14 +152,14 @@ body {
 
 /* About Section */
 .about,
-.menu,
+.galeri,
 .products,
 .contact {
   padding: 8rem 7% 1.4rem;
 }
 
 .about h2,
-.menu h2,
+.galeri h2,
 .products h2,
 .contact h2 {
   text-align: center;
@@ -168,7 +168,7 @@ body {
 }
 
 .about h2 span,
-.menu h2 span,
+.galeri h2 span,
 .products h2 span,
 .contact h2 span {
   color: var(--primary);
@@ -204,7 +204,7 @@ body {
   margin-bottom: 0.8rem;
   font-size: 1.2rem;
   font-weight: 400;
-  line-height: 1.6;
+  line-height: 2;
   text-align: justify;
 }
 
