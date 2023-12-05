@@ -119,7 +119,7 @@ body {
 }
 
 .hero .content h1 {
-  font-size: 2em;
+  font-size: 2rem;
   color: #fff;
   text-shadow: 1px 1px 3px rgba(1, 1, 3, 0.5);
   line-height: 1.2;
@@ -130,11 +130,12 @@ body {
 }
 
 .hero .content p {
-  font-size: 1.6rem;
-  margin-top: 1rem;
-  line-height: 1.4;
+  font-size: 1.4rem;
+  margin-top: 0.5rem;
+  line-height: 1.2;
   font-weight: 100;
   text-shadow: 1px 1px 3px rgba(1, 1, 3, 0.5);
+  color: #fff;
   mix-blend-mode: difference;
 }
 
@@ -162,7 +163,7 @@ body {
 .products h2,
 .contact h2 {
   text-align: center;
-  font-size: 2.6rem;
+  font-size: 2rem;
   margin-bottom: 3rem;
 }
 
@@ -195,24 +196,24 @@ body {
 }
 
 .about .row .content h3 {
-  font-size: 1.5rem;
+  font-size: 1rem;
   margin-bottom: 1rem;
 }
 
 .about .row .content p {
   margin-bottom: 0.8rem;
-  font-size: 1.4rem;
-  font-weight: 200;
+  font-size: 1.3rem;
+  font-weight: 400;
   line-height: 1.6;
 }
 
 /* Menu Section */
-.menu h2,
+.galeri h2,
 .products h2,
 .contact h2 {
   margin-bottom: 1rem;
 }
-.menu p,
+/* .galeri p,
 .products p,
 .contact p {
   text-align: center;
@@ -220,9 +221,9 @@ body {
   margin: auto;
   font-weight: 100;
   line-height: 1.6;
-}
+} */
 
-.menu .row {
+/* .menu .row {
   display: flex;
   flex-wrap: wrap;
   margin-top: 5rem;
@@ -241,7 +242,7 @@ body {
 
 .menu .row .menu-card .menu-card-title {
   margin: 1rem auto 0.5rem;
-}
+} */
 
 /* Media Queries */
 /* Laptop */
